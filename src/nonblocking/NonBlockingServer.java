@@ -1,4 +1,4 @@
-package non.blocking.server;
+package nonblocking;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
